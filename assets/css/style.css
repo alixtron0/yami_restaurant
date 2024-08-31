@@ -45,7 +45,7 @@ h1 {
     white-space: nowrap;
     border-radius: 10px;
     background-color: #292C33;
-    background-image: url('assets/images/wood1.png');
+    background-image: url('yami_restaurant/assets/images/wood1.png');
     max-height: 300px;
     margin-bottom: 20px;
     @keyframes move-left {
